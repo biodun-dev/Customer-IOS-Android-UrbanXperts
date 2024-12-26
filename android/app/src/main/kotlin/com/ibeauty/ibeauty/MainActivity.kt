@@ -1,4 +1,4 @@
-package com.ibeauty.app
+package com.urbanxpert.app
 
 import io.flutter.embedding.android.FlutterActivity
 

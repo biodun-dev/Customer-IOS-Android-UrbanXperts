@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:592543327679:android:e113c559e6c16e446f6d0a",
         "android_client_info": {
-          "package_name": "com.ibeauty"
+          "package_name": "com.urbanxpert"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "592543327679-23g6ttdug5lgjkb1d0voikpunborb5fo.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ibeauty",
+            "package_name": "com.urbanxpert",
             "certificate_hash": "a1f49ee6a310fae9c7d3deb5731a6ee6ff826efa"
           }
         },
@@ -25,7 +25,7 @@
           "client_id": "592543327679-312auk1mb3b3eejot66tme4onb8ulokn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ibeauty",
+            "package_name": "com.urbanxpert",
             "certificate_hash": "9e17d70aef3a4fb5d15fb67ad073fc107ad06902"
           }
         },
@@ -33,7 +33,7 @@
           "client_id": "592543327679-60hm4poc10fa2a0d6hcm16r337787vom.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ibeauty",
+            "package_name": "com.urbanxpert",
             "certificate_hash": "f78eb0789102f5e714676be3a87e47c0b7835131"
           }
         },
@@ -41,7 +41,7 @@
           "client_id": "592543327679-ld53ebmptlsnruj47i8lug097ntmo560.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ibeauty",
+            "package_name": "com.urbanxpert",
             "certificate_hash": "23bb9bbcccf92d1019bce0028443ed0bdc37db5d"
           }
         },
@@ -66,7 +66,7 @@
               "client_id": "592543327679-1fcucu42c9mnbhdced3st33vo09abum4.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ibeauty.seller"
+                "bundle_id": "com.urbanxpert.seller"
               }
             }
           ]
@@ -77,7 +77,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:592543327679:android:51cdc0ff864d26a06f6d0a",
         "android_client_info": {
-          "package_name": "com.ibeauty.app"
+          "package_name": "com.urbanxpert.app"
         }
       },
       "oauth_client": [
@@ -85,7 +85,7 @@
           "client_id": "592543327679-4d605rven2mfvgkgkd4neu7ad7f0t9cb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ibeauty.app",
+            "package_name": "com.urbanxpert.app",
             "certificate_hash": "23bb9bbcccf92d1019bce0028443ed0bdc37db5d"
           }
         },
@@ -93,7 +93,7 @@
           "client_id": "592543327679-8k55duvpgkrm9opo6b62r6fr98hce2vs.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ibeauty.app",
+            "package_name": "com.urbanxpert.app",
             "certificate_hash": "a1f49ee6a310fae9c7d3deb5731a6ee6ff826efa"
           }
         },
@@ -101,7 +101,7 @@
           "client_id": "592543327679-r9hkqtod36if3nsj0ooijit2if7eicj6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ibeauty.app",
+            "package_name": "com.urbanxpert.app",
             "certificate_hash": "9e17d70aef3a4fb5d15fb67ad073fc107ad06902"
           }
         },
@@ -126,7 +126,7 @@
               "client_id": "592543327679-1fcucu42c9mnbhdced3st33vo09abum4.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ibeauty.seller"
+                "bundle_id": "com.urbanxpert.seller"
               }
             }
           ]
@@ -170,7 +170,7 @@
               "client_id": "592543327679-1fcucu42c9mnbhdced3st33vo09abum4.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ibeauty.seller"
+                "bundle_id": "com.urbanxpert.seller"
               }
             }
           ]
@@ -222,7 +222,7 @@
               "client_id": "592543327679-1fcucu42c9mnbhdced3st33vo09abum4.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ibeauty.seller"
+                "bundle_id": "com.urbanxpert.seller"
               }
             }
           ]
@@ -282,7 +282,7 @@
               "client_id": "592543327679-1fcucu42c9mnbhdced3st33vo09abum4.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ibeauty.seller"
+                "bundle_id": "com.urbanxpert.seller"
               }
             }
           ]

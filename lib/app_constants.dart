@@ -18,8 +18,8 @@ class AppConstants {
   static const String firebaseWebKey =
       'AIzaSyDAPFJegc9HiNJbX-KHauDUR3_vVljfLYc';
   static const String urlPrefix = 'https://ibeautyapp.page.link';
-  static const String androidPackageName = 'com.ibeauty.app';
-  static const String iosPackageName = 'com.ibeauty';
+  static const String androidPackageName = 'com.urbanxpert.app';
+  static const String iosPackageName = 'com.urbanxpert';
   static const String routingKey =
       '5b3ce3597851110001cf6248ed52930792d447839b83083b296b7909';
   static const String sellerAppAndroid =

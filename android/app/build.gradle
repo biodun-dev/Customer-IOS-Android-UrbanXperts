@@ -30,7 +30,7 @@ if (keystorePropertiesFile.exists()) {
 
 
 android {
-    namespace "com.ibeauty.app"
+    namespace "com.urbanxpert.app"
     compileSdkVersion 34
     ndkVersion flutter.ndkVersion
 
@@ -49,7 +49,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.ibeauty.app"
+        applicationId "com.urbanxpert.app"
         minSdkVersion flutter.minSdkVersion
         multiDexEnabled true
         targetSdkVersion flutter.targetSdkVersion
